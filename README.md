@@ -7,7 +7,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)
 ![Phase](https://img.shields.io/badge/Phase-1%20of%208-0ea5e9?style=flat-square)
-![Domain](https://img.shields.io/badge/Domain-Aerospace%20×%20ML-6366f1?style=flat-square)
+![Domain](https://img.shields.io/badge/Domain-Aerospace%20x%20ML-6366f1?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)](https://mahin-aeroai-anti-drone-pinn.streamlit.app)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)](https://mahin-aeroai-anti-drone-pinn.streamlit.app)
 
 **A research-grade Physics-Informed Neural Network system for modeling and detecting drone-generated acoustic pressure fields — without labeled data.**
